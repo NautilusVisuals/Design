@@ -50,7 +50,7 @@ h2 {
     padding: 15px 25px;
     color: #fff; }
   .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-    color: #00000; }
+    color: #000000; }
   .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
     width: 25px;
     height: 2px;
@@ -177,13 +177,13 @@ h2 {
     .contact-pop .content p {
       color: #584f53; }
     .contact-pop .content hr {
-      background-color: #00000;
+      background-color: #000000;
       width: 50px;
       height: 5px;
       border: none;
       margin-left: 0; }
     .contact-pop .content a {
-      background-color: #00000;
+      background-color: #000000;
       width: 158px;
       border-radius: 40px;
       color: #fefefe;
@@ -386,7 +386,7 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #00000;
+  background: #000000;
   padding: 100px 0; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
@@ -415,7 +415,7 @@ h2 {
       margin: 0 2px; }
       .recent .owl-carousel .owl-nav .owl-prev:hover, .recent .owl-carousel .owl-nav .owl-next:hover {
         background: #fff;
-        color: #00000; }
+        color: #000000; }
       .recent .owl-carousel .owl-nav .owl-prev span, .recent .owl-carousel .owl-nav .owl-next span {
         position: relative;
         display: block;
@@ -436,7 +436,7 @@ h2 {
       margin-bottom: 5px; }
     .recent .card p {
       font-size: 14px;
-      color: #000000; }
+      color: #0000000; }
     .recent .card.active, .recent .card:hover {
       transform: scale(1.05, 1.1);
       -webkit-transform: scale(1.05, 1.1);
@@ -716,7 +716,7 @@ h2 {
       background: #fff; }
 
 footer {
-  background: #00000; }
+  background: #000000; }
   footer iframe {
     height: 100%;
     width: 100%; }
@@ -729,7 +729,7 @@ footer {
     max-width: 380px;
     margin: 117px auto; }
     footer .contact-form h3 {
-      color: #00000;
+      color: #000000;
       font-size: 20px;
       text-align: center;
       margin-bottom: 20px; }
@@ -747,7 +747,7 @@ footer {
       resize: none;
       padding-top: 20px !important; }
     footer .contact-form button {
-      background: #00000;
+      background: #000000;
       width: 140px;
       padding: 13px 0;
       font-size: 15px;
@@ -769,7 +769,7 @@ footer {
       transition: 0.3s ease;
       text-decoration: none; }
       footer .copy a:hover {
-        color: #00000; }
+        color: #000000; }
   @media (max-width: 1199px) {
     footer .contact-form {
       margin: 50px auto; } }
@@ -803,7 +803,7 @@ footer {
 
 .blog-content-inner {
   background-color: #f2d5d7;
-  background-color: #00000;
+  background-color: #000000;
   padding: 70px;
   border-radius: 15px; }
   .blog-content-inner .card-title {
