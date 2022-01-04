@@ -75,7 +75,10 @@ jQuery(document).ready(function(){
 
   
   document.body.addEventListener("click", function (e) {
-    if (e.target.classList.contains("card-img-overlay")) {
+    if (
+      e.target.classList.contains("card-img-overlay") &&
+      !e.target.classList.contains("no-zoom")
+    ) {
       var $modal = $("#preview-modal");
       
       $modal.find("img").attr("src", e.target.previousElementSibling.src);
