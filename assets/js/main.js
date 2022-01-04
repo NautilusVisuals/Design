@@ -78,7 +78,7 @@ jQuery(document).ready(function(){
     if (e.target.classList.contains("card-img-overlay")) {
       var $modal = $("preview-modal");
       
-      $modal.find("img").attr("src", e.target.previousElementChild.src);
+      $modal.find("img").attr("src", e.target.previousElementSibling.src);
       
       $modal.toggle();
     }
