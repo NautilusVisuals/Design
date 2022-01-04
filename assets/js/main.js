@@ -80,7 +80,7 @@ jQuery(document).ready(function(){
       
       $modal.find("img").attr("src", e.target.previousElementSibling.src);
       
-      $modal.toggle();
+      $modal.modal("toggle");
     }
   });
 
